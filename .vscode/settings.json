@@ -51,5 +51,8 @@
         "xmemory": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp"
-    }
+    },
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "\"JetBrains Mono\""
 }
