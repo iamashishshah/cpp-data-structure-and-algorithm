@@ -53,6 +53,8 @@
         "xutility": "cpp"
     },
     "editor.defaultFormatter": "ms-vscode.cpptools",
-    "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "\"JetBrains Mono\""
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "\"JetBrains Mono\"",
+    "cmake.automaticReconfigure": false,
+    "cmake.cacheInit": false
 }
