@@ -56,5 +56,8 @@
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "\"JetBrains Mono\"",
     "cmake.automaticReconfigure": false,
-    "cmake.cacheInit": false
+    "cmake.cacheInit": false,
+    "editor.formatOnSave": false,
+    "editor.tabSize": 8,
+    "C_Cpp.formatting": "disabled"
 }
