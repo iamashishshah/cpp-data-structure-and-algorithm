@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    vector<int> array = { 1};
+    vector<int> array = { 13, 46, 24, 3, 20, 9};
     
     int length = array.size();
     for(int i = 0; i < length - 1; i++){
